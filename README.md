@@ -32,7 +32,7 @@ bot:
 from sycm import ConfigManager
 
 cfg = ConfigManager("config.yaml")
-print(cfg.bot.token) # 123abcde
+print(cfg.bot.token)  # 123abcde
 ```
 
 ## License
