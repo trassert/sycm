@@ -26,7 +26,7 @@ invalid-assignment = "ignore"
 no-matching-overload = "ignore"
 
 [tool.ruff]
-exclude = ["depr", "scripts", ".venv"]
+exclude = [".venv"]
 unsafe-fixes = true
 line-length = 80
 indent-width = 4
